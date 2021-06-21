@@ -1,6 +1,8 @@
 # reconstruction from pulse shape software
 ## https://github.com/CaltechPrecisionTiming/TimingDAQ
 
+core code for waveform analysis: https://github.com/CaltechPrecisionTiming/TimingDAQ/blob/master/src/DatAnalyzer.cc
+
 # Talks on LO measurement with module
 
 ## CERN measurement
