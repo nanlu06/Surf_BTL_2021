@@ -1,4 +1,4 @@
-# reconstruction from pulse shape software
+# Reconstruction from pulse shape software
 ## https://github.com/CaltechPrecisionTiming/TimingDAQ
 
 #### core code for waveform analysis https://github.com/CaltechPrecisionTiming/TimingDAQ/blob/master/src/DatAnalyzer.cc
