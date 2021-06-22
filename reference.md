@@ -20,3 +20,9 @@ https://indico.cern.ch/event/1021736/contributions/4291361/attachments/2215107/3
 
 Dawn Tang SURF 2018: https://indico.cern.ch/event/744397/
 
+# Data
+
+Taken by Lautaro in June:
+
+/storage/af/user/nlu/MTD/FQNET-Agilent-Scope/datatest/module2021/*root
+
