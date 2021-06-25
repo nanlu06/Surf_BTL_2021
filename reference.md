@@ -26,3 +26,4 @@ Taken by Lautaro in June:
 
 /storage/af/user/nlu/MTD/FQNET-Agilent-Scope/datatest/module2021/*root
 
+pulse->Draw("channel[0]:time[0]","i_evt==3")
