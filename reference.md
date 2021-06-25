@@ -9,6 +9,12 @@ calculatet the charge or (V*s) of pulse:
 
 https://github.com/CaltechPrecisionTiming/TimingDAQ/blob/0bb5c289ce52b3b5f9db7d312595f2904053e268/src/DatAnalyzer.cc#L1191-L1201
 
+command to reconstruct the pulse:
+
+./NetScopeStandaloneDat2Root --input_file=xxx.root --config=config/KeySightScope_v1_test.config --N_evts=4000
+
+
+
 
 # Talks on LO measurement with module/single channel
 
