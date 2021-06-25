@@ -14,18 +14,6 @@ command to reconstruct the pulse:
 ./NetScopeStandaloneDat2Root --input_file=xxx.root --config=config/KeySightScope_v1_test.config --N_evts=4000
 
 
-add the following to confi/KeySightScope_v1_test.config
-
-ConstantFraction 2 3 4 5 6 7 8 10 20 30 40 50 60
-ConstantThreshold -10
-z_DUT -50. 50. 1500.
-# CH (#) | POLARITY (+/-) | Baseline start time | Baseline stop time | AMPLIFICATION (dB) | ATTENUATION (dB) | ALGORITHM (None, Re, G) | WEIERSTRASS FILTER_WIDTH (0 for no filter)
-0 - -1e-6 0. 0. 0. LP2  0.
-1 - -1e-6 0. 0. 0. LP2  0.
-2 - -1e-6 0. 0. 0. LP2  0.
-3 - -1e-6 0. 0. 0. LP2  0.
-
-
 # Talks on LO measurement with module/single channel
 
 ## CERN measurement
