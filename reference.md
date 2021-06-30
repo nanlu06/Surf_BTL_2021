@@ -15,6 +15,7 @@ https://github.com/CaltechPrecisionTiming/TimingDAQ/blob/0bb5c289ce52b3b5f9db7d3
 
 ``` 
 cp -r /storage/af/user/nlu/work/MTD/TimingDAQ .
+source TimingDAQ/setup_lxplus.sh
 cd TimingDAQ
 make clean
 make
